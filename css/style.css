@@ -16,7 +16,7 @@
     text-align:center;
     display:block;
     font-size:25px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     color:#fff;
     text-transform: uppercase;
@@ -28,7 +28,7 @@
 }
 #navbar-wrapped .navbar-desktop-inner ul li a{
     font-size:14px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight:bold;
     display:block;
@@ -65,7 +65,7 @@
 #owlCarousel-wrapped .owlCarousel-inner .mySlides p{
     display:block;
     font-size:14px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#333;
     line-height:25px;
     text-align:center;
@@ -95,7 +95,7 @@
 #menu-wrapped .menu-title p{
     padding:10px;
     font-size:25px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     text-transform: uppercase;
     color:#EA8025;
@@ -111,7 +111,7 @@
 #menu-wrapped .content p a{
     font-size:18px;
     display:block;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#333;
     text-transform: uppercase;
     font-weight: bold;
@@ -124,7 +124,7 @@
     font-size:14px;
     font-weight: bold;
     text-align: center;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: #333;
     color:#fff;
     padding:10px;
@@ -139,7 +139,7 @@
     font-size:25px;
     display:block;
     color:#EA8025;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #menu-wrapped .content .btn{
     margin:20px 0px;
@@ -152,7 +152,7 @@
     text-decoration: none;
     font-size:14px;
     font-weight:bold;
-    font-family:'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #menu-wrapped .content .btn .btn-buy:hover{
     background:#fff;
@@ -167,7 +167,7 @@
     text-decoration: none;
     font-size:14px;
     font-weight:bold;
-    font-family:'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #menu-wrapped .content .btn .btn-info:hover{
     background:#EA8025;
@@ -186,7 +186,7 @@
 }
 #blog-wrapped .blog-title p{
     font-size:25px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     text-transform: uppercase;
     color:#EA8025;
@@ -197,7 +197,7 @@
     font-size:14px;
     font-weight: bold;
     text-align: center;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: #fff;
     color:#333;
     padding:10px;
@@ -219,7 +219,7 @@
     color:#EA8025;
     font-size:12px;
     font-weight:bold;
-    font-family:'Lato' , sans-serif;
+    font-family: 'Roboto', sans-serif;
     
 }
 #blog-wrapped .card .blog-inner-title{
@@ -227,7 +227,7 @@
     margin:20px 0px;
     font-size:18px;
     font-weight:bold;
-    font-family:'Lato' , sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#333;
     text-transform: uppercase;
     font-weight:bold;
@@ -236,8 +236,7 @@
     padding: 0px 10px;
     font-size:14px;
     color:#333;
-    font-family:'Lato' , sans-serif;
-    
+    font-family: 'Roboto', sans-serif;
 }
 #blog-wrapped .card  .btn-watch {
     padding:10px;
@@ -248,7 +247,7 @@
     text-align:center;
     font-size:14px;
     line-height:20px;
-    font-family:'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     color:#fff;
     text-decoration: none;
@@ -262,7 +261,7 @@
 }
 #shop-wrapped .shop-title p{
     font-size:25px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     text-transform: uppercase;
     color:#EA8025;
@@ -274,7 +273,7 @@
     font-size:14px;
     font-weight: bold;
     text-align: center;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: #333;
     color:#fff;
     padding:10px;
@@ -299,7 +298,7 @@
     font-size:14px;
     line-height:20px;
     color:#fff;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin:15px 0px;
     padding:0px 20px;
 }
@@ -329,7 +328,7 @@
     color:#fff;
     padding:52px 20px;
     font-size:14px;
-    font-family: 'Lato' , sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height:20px;
     opacity:1;
 }
@@ -341,7 +340,7 @@
 }
 #checkin-wrapped .checkin-content .checkin-title {
     font-size:25px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     text-transform: uppercase;
     color:#EA8025;
@@ -350,7 +349,7 @@
 }
 #checkin-wrapped .checkin-content p{
     font-size:14px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height:20px;
     color:#333;
     display: block;
@@ -368,7 +367,7 @@
     width:50%;
 }
 #footer-wrapped .aboutUs h2{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: block;
     font-weight:bold;
     margin:0px 0px 20px 0px;
@@ -383,7 +382,7 @@
     color:#fff;
     font-size:14px;
     line-height: 20px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #footer-wrapped .govImg{
     width:100%;
@@ -391,7 +390,7 @@
     width:60%;
 }
 #footer-wrapped .infomation h2{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: block;
     font-weight:bold;
     margin:0px 0px 20px 0px;
@@ -408,7 +407,7 @@
     text-decoration: none;
     color:#fff;
     font-size:14px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height:20px;
 }
 #footer-wrapped .infomation ul li a{
@@ -416,7 +415,7 @@
     color:#fff;
 }
 #footer-wrapped .delivery h2{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: block;
     font-weight:bold;
     margin:0px 0px 20px 0px;
@@ -430,7 +429,7 @@
     text-decoration: none;
     color:#fff;
     font-size:14px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height:20px;
 }
 #footer-wrapped .line{
@@ -445,7 +444,7 @@
 #footer-wrapped .copyRight p{
     display: block;
     font-size:14px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #footer-wrapped .policy{
     margin:10px 0px;
@@ -482,7 +481,7 @@
   .dropdown-content>a {
     font-size:14px;
     line-height:20px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight:bold;
     display:block;
@@ -500,7 +499,7 @@
 }
 .dropbtn {
     font-size:14px;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight:bold;
     display:block;
@@ -521,7 +520,7 @@
 #layer-wrapped .layer-content h1{
     text-align:center;
     display:block;
-    font-family: 'Lato' , sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight:bold;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -537,7 +536,7 @@
     color:#333;
     font-size:14px;
     line-height:25px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #layer-wrapped br{
     margin:20px 0px;
@@ -573,7 +572,7 @@
     color:#333;
     display:block;
     padding:10px 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight:bold;
 }
@@ -588,7 +587,7 @@
 #main-menu-wrapped .baverage-menu .baverage-content p a{
     font-size:18px;
     display:block;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#333;
     text-transform: uppercase;
     font-weight: bold;
@@ -599,7 +598,7 @@
     font-size:25px;
     display:block;
     color:#EA8025;
-    font-family: 'Lato' ,sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #main-menu-wrapped .baverage-menu .baverage-content .btn{
     margin:20px 0px;
@@ -612,7 +611,7 @@
     text-decoration: none;
     font-size:14px;
     font-weight:bold;
-    font-family:'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #main-menu-wrapped .baverage-menu .baverage-content .btn .btn-buy:hover{
     background:#fff;
@@ -624,7 +623,7 @@
     font-size:25px;
     font-weight:bold;
     display:block;
-    font-family:'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     margin:20px 0px;
 }
